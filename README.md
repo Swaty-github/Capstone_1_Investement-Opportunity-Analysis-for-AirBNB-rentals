@@ -1,1 +1,1 @@
-# Capstone_1_Investement-Opportunity-Analysis-for-AirBNB-rentals
+# Capstone_1_Investment-Opportunity-Analysis-for-AirBNB-rentals
